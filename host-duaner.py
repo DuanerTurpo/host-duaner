@@ -70,11 +70,11 @@ def  select():
       print (finder)
       ext()
     elif joker == 4:
-      slowprint("STUDIO HOWEN \033[92m")
+      slowprint("PRODUCTION DUANER \033[92m")
       slowprint("********************************")
       slowprint("SCRIPT CREADO POR: DUANER Y DANIELA \033[96m")
       slowprint("*****************************************")
-      slowprint("CANAL DE YOUTUBE: NOTENGO :V \033[91m")
+      slowprint("CANAL DE YOUTUBE: NOTENGO O BUENO SI , QUIEN SABE BRO:V \033[91m")
       slowprint("**********************")
       slowprint("EMPIEZA A ROBAR BUSCANDO HOST :V \033[96m ")
       slowprint("********************** ")
